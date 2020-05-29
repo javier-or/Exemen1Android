@@ -1,2 +1,0 @@
-# Exemen1Android
- Examen
